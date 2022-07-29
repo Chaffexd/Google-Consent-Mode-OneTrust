@@ -60,5 +60,7 @@ The tag has updated to be denied.
 # Video tutorials
 
 <a href="https://www.loom.com/share/fc5eaf376c034084a3123a8159bf3cc8" target="_blank">This goes over configuring Google Analytics with GCM</a>
+
 <a href="https://www.loom.com/share/69dfcc1349804701897132e512223d67" target="_blank">This goes over changing UA to GA4</a>
+
 <a href="https://www.loom.com/share/53294efbf1314598a8cd2b9a3a3c40de" target="_blank">This goes over checking GCM</a>
