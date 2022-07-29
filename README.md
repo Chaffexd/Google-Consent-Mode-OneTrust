@@ -50,3 +50,15 @@ I have now accepted all preferences on the cookie banner and checked again to se
 <img width="606" alt="datalayer2" src="https://user-images.githubusercontent.com/67240269/181744610-1bd9aa01-b03d-41dd-b6f8-729aee7c425e.png">
 
 Now they're granted, nice. That means the cookies can now drop and track the user.
+
+To triple check this works, let's withdraw consent and check again. 
+
+<img width="1126" alt="Screenshot 2022-07-29 at 19 00 46" src="https://user-images.githubusercontent.com/67240269/181745810-e3259183-9e5b-44d7-b003-d058eaf666c0.png">
+
+The tag has updated to be denied. 
+
+# Video tutorials
+
+<a href="https://www.loom.com/share/fc5eaf376c034084a3123a8159bf3cc8" target="_blank">This goes over configuring Google Analytics with GCM</a>
+<a href="https://www.loom.com/share/69dfcc1349804701897132e512223d67" target="_blank">This goes over changing UA to GA4</a>
+<a href="https://www.loom.com/share/53294efbf1314598a8cd2b9a3a3c40de" target="_blank">This goes over checking GCM</a>
